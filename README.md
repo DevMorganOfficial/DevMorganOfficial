@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DevMorganOfficial
-- 👀 Я из России
 - 🌱 I’m currently learning Lua, pawno, C#
 - 📫 How to reach me t.me/DevMorgan
 
